@@ -12,8 +12,8 @@ CREATE TABLE employees
 CREATE TABLE customers
 (
 	customer_id varchar(5) UNIQUE,
-	company_name varchar(30) NOT NULL,
-	contact_name varchar(30) NOT NULL
+	company_name varchar(100) NOT NULL,
+	contact_name varchar(100) NOT NULL
 );
 CREATE TABLE orders
 (
