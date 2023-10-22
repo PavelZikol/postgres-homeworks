@@ -1,9 +1,9 @@
-"customer_id","company_name","contact_name"
-"ALFKI","Alfreds Futterkiste","Maria Anders"
-"ANATR","Ana Trujillo Emparedados y helados","Ana Trujillo"
-"ANTON","Antonio Moreno Taquería","Antonio Moreno"
-"AROUT","Around the Horn","Thomas Hardy"
-"BERGS","Berglunds snabbköp","Christina Berglund"
+customer_id,company_name,contact_name
+ALFKI,Alfreds Futterkiste,Maria Anders
+"ANATR",Ana Trujillo Emparedados y helados,Ana Trujillo
+"ANTON",Antonio Moreno Taquería,Antonio Moreno
+"AROUT","Around the Horn",Thomas Hardy
+"BERGS","Berglunds snabbköp",Christina Berglund
 "BLAUS","Blauer See Delikatessen","Hanna Moos"
 "BLONP","Blondesddsl père et fils","Frédérique Citeaux"
 "BOLID","Bólido Comidas preparadas","Martín Sommer"
@@ -14,7 +14,7 @@
 "CENTC","Centro comercial Moctezuma","Francisco Chang"
 "CHOPS","Chop-suey Chinese","Yang Wang"
 "COMMI","Comércio Mineiro","Pedro Afonso"
-"CONSH","Consolidated Holdings","Elizabeth Brown"
+"CONSH","Consolidated Holdings","Elizabeth Bin"
 "DRACD","Drachenblut Delikatessen","Sven Ottlieb"
 "DUMON","Du monde entier","Janine Labrune"
 "EASTC","Eastern Connection","Ann Devon"
@@ -51,7 +51,7 @@
 "MAISD","Maison Dewey","Catherine Dewey"
 "MEREP","Mère Paillarde","Jean Fresnière"
 "MORGK","Morgenstern Gesundkost","Alexander Feuer"
-"NORTS","North/South","Simon Crowther"
+"NORTS","North/South","Simon Cither"
 "OCEAN","Océano Atlántico Ltda.","Yvonne Moncada"
 "OLDWO","Old World Delicatessen","Rene Phillips"
 "OTTIK","Ottilies Käseladen","Henriette Pfalzheim"
@@ -69,7 +69,7 @@
 "RICSU","Richter Supermarkt","Michael Holz"
 "ROMEY","Romero y tomillo","Alejandra Camino"
 "SANTG","Santé Gourmet","Jonas Bergulfsen"
-"SAVEA","Save-a-lot Markets","Jose Pavarotti"
+"SAVEA",Save-a-lot Markets,"Jose Pavarotti"
 "SEVES","Seven Seas Imports","Hari Kumar"
 "SIMOB","Simons bistro","Jytte Petersen"
 "SPECD","Spécialités du monde","Dominique Perrier"
@@ -88,5 +88,5 @@
 "WARTH","Wartian Herkku","Pirkko Koskitalo"
 "WELLI","Wellington Importadora","Paula Parente"
 "WHITC","White Clover Markets","Karl Jablonski"
-"WILMK","Wilman Kala","Matti Karttunen"
-"WOLZA","Wolski  Zajazd","Zbyszek Piestrzeniewicz"
+"WILMK",Wilman Kala,"Matti Karttunen"
+"WOLZA",Wolski  Zajazd,Zbyszek Piestrzeniewicz
